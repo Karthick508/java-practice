@@ -1,9 +1,11 @@
-/**
- * JavaPracticeDaily
- */
+import strings.StringPractice;
+
 public class JavaPracticeDaily {
 
     public static void main(String[] args) {
-        System.out.println("hello");
+
+        // ! String questions
+        StringPractice.stringQuestions();
     }
+
 }
